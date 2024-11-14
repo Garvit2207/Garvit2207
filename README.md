@@ -22,3 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garvit2207&show_icons=true&locale=en" alt="garvit2207" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garvit2207&" alt="garvit2207" /></p>
+
+
+[![An image of @garvit2207's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/garvit2207)](https://holopin.io/@garvit2207)
+
